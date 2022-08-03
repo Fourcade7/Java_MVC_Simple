@@ -1,7 +1,9 @@
 # Java_MVC_Simple
 
 1.Model: This component stores the application data. It has no knowledge about the interface. The model is responsible for handling the domain logic(real-world business rules) and communication with the database and network layers.
+
 2.View: It is the UI(User Interface) layer that holds components that are visible on the screen. Moreover, it provides the visualization of the data stored in the Model and offers interaction to the user.
+
 3.Controller: This component establishes the relationship between the View and the Model. It contains the core application logic and gets informed of the user’s behavior and updates the Model as per the need.
 
 <img width="632" alt="original" src="https://user-images.githubusercontent.com/60017090/182567052-7b3f1ce8-748a-4167-9c82-257565829f1a.png">
