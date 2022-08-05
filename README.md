@@ -6,6 +6,10 @@
 
 3.Controller: This component establishes the relationship between the View and the Model. It contains the core application logic and gets informed of the user’s behavior and updates the Model as per the need.
 
+
+![photo_2022-08-05_09-30-17](https://user-images.githubusercontent.com/60017090/183099493-fe1a605e-3418-4821-8abd-c72383b42506.jpg)
+
+
 <img width="632" alt="original" src="https://user-images.githubusercontent.com/60017090/182567052-7b3f1ce8-748a-4167-9c82-257565829f1a.png">
 
 ![original (1)](https://user-images.githubusercontent.com/60017090/182567096-65993592-91df-4d9c-b11c-ae9f757ed64e.png)
