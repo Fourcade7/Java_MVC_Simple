@@ -16,8 +16,6 @@
 
 ![original](https://user-images.githubusercontent.com/60017090/182572606-4815830b-83fd-4cb7-a1d1-bf6547101b5e.jpeg)
 
-![x010 png pagespeed ic ZJe0-QnS0n](https://user-images.githubusercontent.com/60017090/182595332-d44da96c-8ee4-4d46-8ed6-34bcf2099879.png)
-
 ![1_HoHOQmr79f-SnoWGsuh1OQ](https://user-images.githubusercontent.com/60017090/182595357-2036b4f1-03f1-4271-97ea-fdab5006ad81.jpeg)
 
 ![MVCSchema](https://user-images.githubusercontent.com/60017090/182596538-33ce21f9-4127-4df5-bfba-efadb6f3fd53.png)
